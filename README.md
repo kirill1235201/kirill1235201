@@ -1,5 +1,5 @@
-- 👋 Hi, I’m KIRILL full-stack developer
-- 🌱 I’m currently learning PhP, Go, React
+- 👋 Hi, I’m KIRILL 
+- 🌱 I’m currently 
 - 📫 How to reach me: via Email kirill009@live.com
 
 <!---
